@@ -1,0 +1,149 @@
+{
+  "users": [
+    {
+      "id": "c315",
+      "name": "Chad Klocko"
+    },
+    {
+      "id": "34fd",
+      "name": "Jamie Dickens"
+    },
+    {
+      "id": "daaa",
+      "name": "Kathy Rempel PhD"
+    },
+    {
+      "id": "c25b",
+      "name": "Charlie Johnston"
+    }
+  ],
+  "albums": [
+    {
+      "id": "d3a5",
+      "userId": "c315",
+      "title": "Fantastic Metal Gloves"
+    },
+    {
+      "id": "3920",
+      "userId": "c315",
+      "title": "Sleek Rubber Chair"
+    },
+    {
+      "id": "6ecd",
+      "userId": "34fd",
+      "title": "Intelligent Fresh Car"
+    },
+    {
+      "id": "a581",
+      "userId": "34fd",
+      "title": "Practical Fresh Soap"
+    },
+    {
+      "id": "579a",
+      "userId": "daaa",
+      "title": "Ergonomic Granite Pizza"
+    },
+    {
+      "id": "bcd7",
+      "userId": "daaa",
+      "title": "Electronic Fresh Pizza"
+    },
+    {
+      "id": "b759",
+      "userId": "d3a5",
+      "title": "Recycled Plastic Sausages"
+    },
+    {
+      "id": "51c6",
+      "userId": "d3a5",
+      "title": "Incredible Cotton Mouse"
+    },
+    {
+      "id": "d9f2",
+      "userId": "d3a5",
+      "title": "Recycled Bronze Tuna"
+    },
+    {
+      "id": "431b",
+      "userId": "d3a5",
+      "title": "Gorgeous Granite Car"
+    },
+    {
+      "id": "34b2",
+      "userId": "d3a5",
+      "title": "Unbranded Steel Pizza"
+    },
+    {
+      "id": "0c98",
+      "userId": "d3a5",
+      "title": "Gorgeous Rubber Cheese"
+    },
+    {
+      "id": "a1aa",
+      "userId": "d3a5",
+      "title": "Practical Concrete Sausages"
+    },
+    {
+      "id": "4da5",
+      "userId": "d3a5",
+      "title": "Tasty Soft Bike"
+    },
+    {
+      "id": "c2ff",
+      "userId": "d3a5",
+      "title": "Ergonomic Rubber Shirt"
+    },
+    {
+      "id": "47b0",
+      "userId": "d3a5",
+      "title": "Bespoke Soft Towels"
+    },
+    {
+      "id": "9e6b",
+      "userId": "c25b",
+      "title": "Fantastic Fresh Mouse"
+    },
+    {
+      "id": "d7ab",
+      "userId": "c25b",
+      "title": "Gorgeous Wooden Pizza"
+    },
+    {
+      "id": "8ead",
+      "userId": "c25b",
+      "title": "Recycled Wooden Keyboard"
+    }
+  ],
+  "photos": [
+    {
+      "id": "6b40",
+      "albumId": "d3a5",
+      "url": "https://loremflickr.com/150/150/abstract?lock=42294"
+    },
+    {
+      "id": "7e8d",
+      "albumId": "d3a5",
+      "url": "https://loremflickr.com/150/150/abstract?lock=62614"
+    },
+    {
+      "id": "e36f",
+      "albumId": "d3a5",
+      "url": "https://loremflickr.com/150/150/abstract?lock=23313"
+    },
+    {
+      "id": "f452",
+      "albumId": "9e6b",
+      "url": "https://loremflickr.com/150/150/abstract?lock=43130"
+    },
+    {
+      "id": "6dc3",
+      "albumId": "9e6b",
+      "url": "https://loremflickr.com/150/150/abstract?lock=82151"
+    },
+    {
+      "id": "9c06",
+      "albumId": "9e6b",
+      "url": "https://loremflickr.com/150/150/abstract?lock=6752"
+    }
+  ]
+}
